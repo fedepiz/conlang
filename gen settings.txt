@@ -1,0 +1,12 @@
+Categories:
+O=lnstmfkdjvwgxʍpbzɰʃr
+C=snl
+V=aeoiuy
+Rewrite rules:
+ɰ|xh
+ʃ|sh
+ʍ|wh
+Syllable types:
+OVC
+OV
+VC
